@@ -74,3 +74,45 @@ This project creates lasting value by ensuring that **digital transformation inc
 ---
 
 *Now the UML diagrams.*
+
+# Static Diagrams
+
+## Class Diagram:
+<img width="1405" height="526" alt="Class" src="https://github.com/user-attachments/assets/9f1f2211-6ad4-4637-880c-cfa03fa8e21c" />
+
+## Packages Diagram:
+<img width="697" height="524" alt="Packages" src="https://github.com/user-attachments/assets/a2889033-4fbf-42d5-b509-6156f723528d" />
+
+## Objects Diagram:
+<img width="1425" height="354" alt="Objects" src="https://github.com/user-attachments/assets/f21e5212-9a45-407a-a84f-32985f1b9b4c" />
+
+## Components Diagram:
+<img width="1414" height="518" alt="Component" src="https://github.com/user-attachments/assets/6ea63474-9e51-450e-953e-a05052b59f31" />
+
+## Istallation/Deployment Diagram:
+<img width="1091" height="525" alt="Deployment" src="https://github.com/user-attachments/assets/f1ba1e32-a422-4515-bebc-44f65538f206" />
+
+---
+
+# Dynamic Diagrams
+
+## Activity Diagram:
+<img width="588" height="938" alt="Activity" src="https://github.com/user-attachments/assets/98de7e9d-98a2-4e56-ae58-a7cb9311b46f" />
+
+## Sequence Diagram:
+<img width="950" height="843" alt="Sequence" src="https://github.com/user-attachments/assets/40c32307-f8d4-49ab-8061-41ea2892d8f5" />
+
+## Communication Diagram:
+<img width="1016" height="537" alt="Communication" src="https://github.com/user-attachments/assets/7e84a804-c332-4e32-bd80-7fdf53aea4ba" />
+
+## Timing Diagram:
+<img width="546" height="581" alt="Timing" src="https://github.com/user-attachments/assets/1ee6b028-1ca2-41f4-89c9-b6306e389759" />
+
+## Use Case Diagram:
+<img width="910" height="521" alt="Use_Case" src="https://github.com/user-attachments/assets/821bb801-044e-4763-99ce-21db7606e84f" />
+
+## State Diagram:
+<img width="777" height="929" alt="State" src="https://github.com/user-attachments/assets/69a9f266-7965-4c62-82f7-7f46c41e654b" />
+
+---
+## Thanks
