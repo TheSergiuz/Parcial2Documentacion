@@ -7,29 +7,29 @@
 ## Table of Contents
 
 ### 🔹 Executive Document
-- [Course Information](-#course-information)
-- [The Problem](-#the-problem)
-- [Our Solution](-#our-solution)
-- [Community Impact](-#community-impact)
-- [Technical Approach](-#technical-approach)
-- [Project Vision](-#project-vision)
+- [Course Information](#course-information)
+- [The Problem](#the-problem)
+- [Our Solution](#our-solution)
+- [Community Impact](#community-impact)
+- [Technical Approach](#technical-approach)
+- [Project Vision](#project-vision)
 
 
 ### 🔹 UML Diagrams
 #### Static Diagrams
-- [Class Diagram](-#class-diagram)
-- [Packages Diagram](-#packages-diagram)
-- [Objects Diagram](-#objects-diagram)
-- [Components Diagram](-#components-diagram)
-- [Installation or Deployment Diagram](-#installation-or-deployment-diagram)
+- [Class Diagram](#class-diagram)
+- [Packages Diagram](#packages-diagram)
+- [Objects Diagram](#objects-diagram)
+- [Components Diagram](#components-diagram)
+- [Installation or Deployment Diagram](#installation-or-deployment-diagram)
 
 #### Dynamic Diagrams
-- [Activity Diagram](-#activity-diagram)
-- [Sequence Diagram](-#sequence-diagram)
-- [Communication Diagram](-#communication-diagram)
-- [Timing Diagram](-#timing-diagram)
-- [Use Case Diagram](-#use-case-diagram)
-- [State Diagram](-#state-diagram)
+- [Activity Diagram](#activity-diagram)
+- [Sequence Diagram](#sequence-diagram)
+- [Communication Diagram](#communication-diagram)
+- [Timing Diagram](#timing-diagram)
+- [Use Case Diagram](#use-case-diagram)
+- [State Diagram](#state-diagram)
 
 ---
 
